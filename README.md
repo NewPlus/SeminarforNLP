@@ -1,7 +1,7 @@
 # YongHwanLee's Repository for NLL
 - NLP 공부 및 세미나, 연구 등을 위한 저장소입니다.
 - 코드와 발표 자료등을 주로 올릴 예정입니다.
------
+
 ## Contents
 - 'Natural Language Processing with Transformers : Building Language Applications with Hugging Face' Book Seminar (2022.07.24 ~ ) / 0011
     - Chapter 3. Transformer Anatomy / Presentation PPT & PDF / Code Practice / 2022.07.18 ~ 2022.07.24 / 001100017
@@ -10,7 +10,7 @@
 - My Seminar (미정) / 0031
     - Gaussian Mixture Model / Presentation PPT & PDF / Code Practice / 미정 / 00310001
 
-### Contents Code
+## Contents Code
 - Directory Number(3) / Type Number(1) / Contents Number(4) / Current Process(1)
     - Directory Number : 3자리, Contents 순서대로 코드 부여
     - Type Number : 1자리, 아래 순서대로 코드 부여
