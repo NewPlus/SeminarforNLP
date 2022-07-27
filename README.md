@@ -4,7 +4,7 @@
 
 ## Contents
 - 'Natural Language Processing with Transformers : Building Language Applications with Hugging Face' Book Seminar (2022.07.24 ~ ) / 0011
-    - Chapter 3. Transformer Anatomy / [Presentation PPT](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Presentation%20files) & PDF / [Code Practice](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Chapter%203.%20Transformer%20Anatomy) / 2022.07.18 ~ 2022.07.24 / 001100017
+    - Chapter 3. Transformer Anatomy / [Presentation PPT](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Presentation%20files) & PDF / [Code Practice](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Chapter%203.%20Transformer%20Anatomy) / 2022.07.18 ~ 2022.07.24 / 001100010
         - Attention is All You Need (NIPS 2017) / [Paper Link](https://arxiv.org/abs/1706.03762)
 - Natural Language Processing Studying (2022 ~ ) / 0022
 - My Seminar (미정) / 0031
