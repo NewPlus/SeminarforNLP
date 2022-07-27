@@ -3,8 +3,8 @@
 - 코드와 발표 자료등을 주로 올릴 예정입니다.
 -----
 ## Contents
-- 'Natural Language Processing with Transformers : Building Language Applications with Hugging Face' Book Seminar (2022.07.24 ~ ) / 0011
-    - Chapter 3. Transformer Anatomy / Presentation PPT & PDF / Code Practice / 2022.07.18 ~ 2022.07.24 / 001100017
+- 'Natural Language Processing with Transformers : Building Language Applications with Hugging Face' Book Seminar (2022.07.28 ~ ) / 0011
+    - Chapter 3. Transformer Anatomy / Presentation PPT & PDF / Code Practice / 2022.07.18 ~ 2022.07.24 / 001100010
         - Attention is All You Need (NIPS 2017) / [Paper Link](https://arxiv.org/abs/1706.03762)
 - Natural Language Processing Studying (2022 ~ ) / 0022
 - My Seminar (미정) / 0031
