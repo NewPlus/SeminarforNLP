@@ -8,8 +8,10 @@
         - Attention is All You Need (NIPS 2017) / [Paper Link](https://arxiv.org/abs/1706.03762)
     - Chapter 6. Chapter 6. Summarization / Presentation PPT & PDF / Code Practice / 2022.08.02 ~  / 001100021
 - Natural Language Processing Studying (2022 ~ ) / 0022
+    - Neural Network from Scratch
+    - Word Embedding 
 - My Seminar (미정) / 0031
-    - Gaussian Mixture Model / Presentation PPT & PDF / Code Practice / 미정 / 00310001
+    - Gaussian Mixture Model / Presentation PPT & PDF / Code Practice / 미정 / 003100014
 
 ## Contents Code
 - Directory Number(3) / Type Number(1) / Contents Number(4) / Current Process(1)
