@@ -6,12 +6,12 @@
 - 'Natural Language Processing with Transformers : Building Language Applications with Hugging Face' Book Seminar (2022.07.24 ~ ) / 0011
     - Chapter 3. Transformer Anatomy / [Presentation PPT](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Presentation%20files) & PDF / [Code Practice](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Chapter%203.%20Transformer%20Anatomy) / 2022.07.18 ~ 2022.07.24 / 001100010
         - Attention is All You Need (NIPS 2017) / [Paper Link](https://arxiv.org/abs/1706.03762)
-    - Chapter 6. Chapter 6. Summarization / Presentation PPT & PDF / Code Practice / 2022.08.02 ~  / 001100021
+    - Chapter 6. Chapter 6. Summarization / Presentation PPT & PDF / Code Practice / 2022.08.02 ~  / 001100022
 - Natural Language Processing Studying (2022 ~ ) / 0022
     - Neural Network from Scratch
     - Word Embedding 
-- My Seminar (미정) / 0031
-    - Gaussian Mixture Model / Presentation PPT & PDF / Code Practice / 미정 / 003100014
+- My Seminar / 0031
+    - Gaussian Mixture Model / Presentation PPT & PDF / Code Practice / 미정 / 003100017
 
 ## Contents Code
 - Directory Number(3) / Type Number(1) / Contents Number(4) / Current Process(1)
