@@ -11,7 +11,7 @@
     - Neural Network from Scratch
     - Word Embedding 
 - My Seminar / 0031
-    - Gaussian Mixture Model / Presentation PPT & PDF / Code Practice / 미정 / 003100017
+    - Gaussian Mixture Model / Presentation PPT & PDF / Code Practice / 2022.08.24 / 003100010
 
 ## Contents Code
 - Directory Number(3) / Type Number(1) / Contents Number(4) / Current Process(1)
