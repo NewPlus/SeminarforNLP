@@ -7,7 +7,7 @@
     - Chapter 3. Transformer Anatomy / [Presentation PPT](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Presentation%20files) & PDF / [Code Practice](https://github.com/NLL-JBNU/YongHwanLee/tree/main/Seminar/Book_Natural%20Language%20Processing%20with%20Transformers/Chapter%203.%20Transformer%20Anatomy) / 2022.07.18 ~ 2022.07.24 / 001100010
         - Attention is All You Need (NIPS 2017) / [Paper Link](https://arxiv.org/abs/1706.03762)
     - Chapter 6. Summarization / Presentation PPT & PDF / Code Practice / 2022.08.18 ~ 2022.08.25  / 001100020
-    - Chapter 10. Training Transformers from Scratch / Presentation PPT & PDF / Code Practice / 2022.08.29 ~ 2022.08.31  / 001100034
+    - Chapter 10. Training Transformers from Scratch / Presentation PPT & PDF / Code Practice / 2022.08.29 ~ 2022.08.31  / 001100035
 - Natural Language Processing Studying (2022 ~ ) / 0022
     - Neural Network from Scratch
     - Word Embedding 
